@@ -623,7 +623,7 @@ body{
 /* mediaqueries */
 
 /* for small screens */
-@media screen and (max-width: 300px){
+@media screen and (max-width: 440px){
     .nav__logo{
         font-size: 18px;
     }
